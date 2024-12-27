@@ -24,7 +24,8 @@
     "tilt@latest",
     "yq-go@latest",
     "act@latest",
-    "kubent@latest"
+    "kubent@latest",
+    "terraform@latest"
   ],
   "shell": {
     "init_hook": [
